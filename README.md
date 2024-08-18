@@ -1,6 +1,6 @@
 
 
-[![MasterHead]([.gif](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif))](https://www.linkedin.com/in/muhammad-saad-b29058189/)
+[![MasterHead][https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://www.linkedin.com/in/muhammad-saad-b29058189/)
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
