@@ -1,6 +1,7 @@
 
 
-[![MasterHead][https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://www.linkedin.com/in/muhammad-saad-b29058189/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)](https://www.linkedin.com/in/muhammad-saad-b29058189/)
+
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -46,7 +47,7 @@
 </a>
 
 
-![Aamna-Faisal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=msaad10&custom_title=Aamna-Faisal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Aamna-Faisal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aamna-Faisal&custom_title=Aamna-Faisal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
