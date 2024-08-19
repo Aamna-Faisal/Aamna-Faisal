@@ -1,6 +1,6 @@
 
 
-[![MasterHead]<img align="center" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="girl with comp"/>](https://www.linkedin.com/in/aamna-faisal-388632254/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif")](https://www.linkedin.com/in/aamna-faisal-388632254/)
 
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
