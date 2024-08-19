@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif)](https://www.linkedin.com/in/aamna-faisal-388632254/)
+[![MasterHead]<img align="center" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="girl with comp"/>](https://www.linkedin.com/in/aamna-faisal-388632254/)
 
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -12,8 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif">
 
 # 💫 About Me :
-- 💡 &nbsp;I'm a software engineer with 1+ years of experience in software design & development.
-- 💻 &nbsp;Currently working as a Senior Software Engineer at [CompanyName](https://10pearls.com/).
+- 💡 &nbsp;I'm a Comp Science Student. Working on Web development..
 - 💬 Ask me about React/JavaScript/Node.Js
 - 📫 How to reach me: Check social links below.
 
